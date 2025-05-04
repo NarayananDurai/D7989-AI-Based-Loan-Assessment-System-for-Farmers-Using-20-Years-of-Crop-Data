@@ -1,0 +1,28 @@
+28th Feb 2025:
+-------------
+MOM and Action items are listed below for your reference: 
+Mentors: Perform plagiarism check - 100% unique.
+Team: Perform market analysis for similar product and similar research
+Students: come up with comparative analysis with various similar model of prophet model.
+Students: Rank/add weightage to the parameters gathered in the dataset.
+Students: Perform literature survey for the similar kind of work by reading 2 or 3 paper of journal. – IN PROGRESS
+Mentor: Share Timelines and related information during the next call
+Divya: Create the whatsapp group – DONE.
+Narayanan: Schedule the next meeting  - DONE.
+
+06th Mar:
+---------
+	Plagarism check - 100% unique. 
+	Created a repository in GitHub to load the artifacts related to this project. 
+	https://urlisolation.com/browser?clickId=FD5B3FDE-5A31-4BD7-BA60-01FBD7B8B4CE&traceToken=1741247654%3Bunisys_hosted%3Bhttps%3A%2Fgithub.com%2Fpassword_reset&url=https%3A%2F%2Fgithub.com%2FNarayananDurai%2FLoan_To_Farmers
+
+
+		Moving to MVP1 from MVP0, Moving the sonarqube server from dev to official sonarqube server. 
+		Tested with couple of projects (PRINTS, CANDE) and generated the SQ reports
+		Thanks to Praveen, Build integration is done for NDLII and sonarqube report is generated for NDLII.
+		Logs are analyzed and updated in the tracking sheet in the shared folder.
+		Moving forward, Raised the ticket to create the additional 38 projects in the official server and all got successfully created. Build team can make use of those for the build integration.
+		Similarly, build team is requested for creating the project names for DCAlgol based files so that those projects can also be created in the sonarqube server to generate SQ reports via build process.
+		Id reviews
+			6 compiler documents.
+		Postgresql in installed and integration with sonarqube server is done, SQ server is up and running.  Next step, I need to SQ reports and backup and restore during SQ server upgradation process.
